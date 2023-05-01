@@ -1,0 +1,1 @@
+Aceasta fisa de lucru prezinta diferite aplicatii in parte care gestioneaza asocierea si mostenirea dintre clase , avand diferite utilitatii in functie de cerintele problemei. ( Stream-uri, expresii lambda, asociere, mostenire, sortare etc)
